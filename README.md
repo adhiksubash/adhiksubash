@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web & mobile application developer from <b>Nepal</b> 」
+    「 I am a software engineer from <b>Nepal</b> 」
     <br>
     <br>
   </samp>
@@ -31,7 +31,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy programming and sharing knowledge<br/><br/>
- ❤️ &emsp; Love to write code and talk to people<br/><br/>
+ ❤️ &emsp; Love mentoring and being mentored<br/><br/>
  📧 &emsp; Reach me anytime: adhiksubash@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/adhiksubash/adhiksubash/issues)
 
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## My Arsenal
 ![CSharp](https://img.shields.io/badge/CSharp-0078d7?style=for-the-badge&logo=CSharp&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
